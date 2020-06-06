@@ -1,5 +1,5 @@
 export default {
-    apikey: "AIzaSyCOskmVClNhTT4Y2wVKsPPHdSFdMtK-kAw",
+    apikey: "API KEY",
     channels: [{
             channelName: "صالح - oPiiLz",
             ID: "UCHVDgaiLbpj5Leazw8vsAmg",
